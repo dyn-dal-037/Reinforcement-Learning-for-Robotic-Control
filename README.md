@@ -24,7 +24,7 @@ The current implementation is tested on the **BipedalWalker** environment, with 
 
 This project is **inspired by** the following implementation:
 
-https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/BipedalWalker-Soft-Actor-Critic
+**Rafael1s : Deep-Reinforcement-Learning-Algorithms**
 
 The current codebase is being adapted and extended for:
 - Better modularity
